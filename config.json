@@ -1,0 +1,60 @@
+{
+  "IMPORTANT": "FILL IN THE 4 NEXT PARAMETERS, OTHERWISE SOME THINGS MAY OR MAY NOT WORK COOKIE IS IMPORTNAT!",
+  
+  "token": "LMAO",
+  "prefix": "-",
+  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+  "cookie": "VISITOR_INFO1_LIVE=U2QATraBYBM; PREF=tz=Asia.Katmandu&f6=40000000&f5=30000; LOGIN_INFO=AFmmF2swRQIgEFFHkukzOWBQMxoP1rJtpfcQcUrg1jgrGcE4GwAB-vkCIQD7-3xgs7ZVPFhxWYNCru-5am54qoN-Vmcia59iWygRGA:QUQ3MjNmeENNS2FSR2M1MjBXUlZGak5KbTZaUUlYRWRzRm5BT0M0YmloS3ZKZEYwOUtGZHZnQTdPYk5RSmkwbGVqWmhuSC1ON1ZTVFA5OFBsdGxJZHJucF9xRkV5Z054UkxfY1cxSWpLZmFQY1F5RXpDRFlGNEstSzRKYkR0ZXdfSkl3cHhFVnBpZ0s1dHdqaGJwQldic3FuUHlQLUlGWXln; SID=-wcVqRro67GFifmdlftZFeS5JEAl9jaWZyPVQCfw_7Q3Nsu7B0dr1r3seFK264Db58EsSA.; __Secure-3PSID=-wcVqRro67GFifmdlftZFeS5JEAl9jaWZyPVQCfw_7Q3Nsu7pdxvk9qVm_kdi3E6inElYg.; HSID=AMOR6MIKosSG0sOAA; SSID=AEGlFwlmYV5AB3cC-; APISID=Y7Yo2SAxnIz4U1sl/A-3SZjry6vhyBgBQ8; SAPISID=vk9gOgIs4QfiInwL/A4hfXNFmDNi3PpWTA; __Secure-3PAPISID=vk9gOgIs4QfiInwL/A4hfXNFmDNi3PpWTA; YSC=P0ojBQS_SMk; SIDCC=AJi4QfEVrKq60m8YEQ8qhRfoK0NMsi6FJkTAfn8F8VGc7hyLZvvbmW5py2eBSKk_1jKQgZ25X84; __Secure-3PSIDCC=AJi4QfH3aHjcC94EYd_hlT3GK6hJKuj7n6WFa-kGfynJm1WWEIbYtuIu9BiFBMcb9Hec6dvfY6Q",
+
+
+  
+
+  "colors": {
+    "yes" : "#080808",
+    "no"  : "#080808"
+  },
+  "customs": {
+    "clear": "dynaudnorm=f=200",
+    "lightbass": "bass=g=8,dynaudnorm=f=200",
+    "heavybass": "bass=g=20,dynaudnorm=f=200",
+    "bassboost": "bass=g=15,dynaudnorm=f=200",
+    "bassboost1": "bass=g=1,dynaudnorm=f=200",
+    "bassboost2": "bass=g=2,dynaudnorm=f=200",
+    "bassboost3": "bass=g=3,dynaudnorm=f=200",
+    "bassboost4": "bass=g=4,dynaudnorm=f=200",
+    "bassboost5": "bass=g=5,dynaudnorm=f=200",
+    "bassboost6": "bass=g=6,dynaudnorm=f=200",
+    "bassboost7": "bass=g=7,dynaudnorm=f=200",
+    "bassboost8": "bass=g=8,dynaudnorm=f=200",
+    "bassboost9": "bass=g=9,dynaudnorm=f=200",
+    "bassboost10": "bass=g=10,dynaudnorm=f=200",
+    "bassboost11": "bass=g=11,dynaudnorm=f=200",
+    "bassboost12": "bass=g=12,dynaudnorm=f=200",
+    "bassboost13": "bass=g=13,dynaudnorm=f=200",
+    "bassboost14": "bass=g=17,dynaudnorm=f=200",
+    "bassboost15": "bass=g=15,dynaudnorm=f=200",
+    "bassboost16": "bass=g=16,dynaudnorm=f=200",
+    "bassboost17": "bass=g=17,dynaudnorm=f=200",
+    "bassboost18": "bass=g=18,dynaudnorm=f=200",
+    "bassboost19": "bass=g=19,dynaudnorm=f=200",
+    "bassboost20": "bass=g=20,dynaudnorm=f=200",
+    "purebass": "bass=g=20,dynaudnorm=f=200,asubboost",    
+    "8d": "apulsator=hz=0.08",
+    "vaporwave": "aresample=48000,asetrate=48000*0.8",
+    "nightcore": "aresample=48000,asetrate=48000*1.25",
+    "phaser": "aphaser=in_gain=0.4",
+    "tremolo": "tremolo",
+    "vibrato": "vibrato=f=6.5",
+    "reverse": "areverse",
+    "treble": "treble=g=5",
+    "surrounding": "surround",
+    "pulsator": "apulsator=hz=1",
+    "subboost": "asubboost",
+    "karaoke": "stereotools=mlev=0.03",
+    "flanger": "flanger",
+    "gate": "agate",
+    "haas": "haas",
+    "mcompand": "mcompand",
+    "earrape": "bass=g=50"
+  }
+}
