@@ -22,6 +22,7 @@
     "https-proxy-agent": "^5.0.0",
     "moment": "^2.27.0",
     "node-fetch": "^2.6.1",
+    "officegen": "^0.6.5",
     "soundcloud-downloader": "^0.2.2",
     "soundcloud-key-fetch": "^1.0.11",
     "soundcloud-scraper": "^4.0.1",
