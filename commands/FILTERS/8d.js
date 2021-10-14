@@ -40,12 +40,3 @@ module.exports = {
         await functions.embedbuilder(client, 3000, message, config.colors.yes, "Adding filter!", filter)
     }
 };
-/**
- * @INFO
- * Bot Coded by Tomato#6966 | https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js
- * @INFO
- * Work for Milrato Development | https://milrato.eu
- * @INFO
- * Please mention Him / Milrato Development, when using this Code!
- * @INFO
- */
