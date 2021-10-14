@@ -1,8 +1,9 @@
 {
-  "name": "musicium",
+  "name": "Groovy",
   "version": "7.0.0",
   "description": "The Ultimate MUSIC BOT",
   "main": "index.js",
+  
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
     "@ksoft/api": "^3.1.9",
@@ -35,40 +36,3 @@
     "test": "node index.js",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tomato6966/Musicium"
-  },
-  "keywords": [
-    "Musicium",
-    "discord",
-    "discord-js",
-    "discord.js",
-    "discord-api",
-    "discord-music-bot",
-    "discord-bot",
-    "discordbot",
-    "youtube",
-    "music",
-    "hentai",
-    "nsfw",
-    "hentai-bot",
-    "hentai-sites",
-    "booru",
-    "booru-websites",
-    "music-bot",
-    "nodejs",
-    "npm",
-    "node-js",
-    "porn",
-    "multipurpose",
-    "gaming",
-    "utility"
-  ],
-  "author": "Tomato#6966",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/Tomato6966/Musicium/issues"
-  },
-  "homepage": "https://github.com/Tomato6966/Musicium#readme"
-}
