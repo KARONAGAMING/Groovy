@@ -1,9 +1,21 @@
 {
-  "name": "Groovy",
-  "version": "7.0.0",
-  "description": "The Ultimate MUSIC BOT",
+  "name": "groovy",
+  "version": "1.0.0",
+  "description": "BROKARONAGAMING#2962, Tomato6966 , JohnDavid✖‿✖#0009",
   "main": "index.js",
-  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KARONAGAMING/Groovy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KARONAGAMING/Groovy/issues"
+  },
+  "homepage": "https://github.com/KARONAGAMING/Groovy#readme",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
     "@ksoft/api": "^3.1.9",
@@ -18,6 +30,7 @@
     "discord.js-pagination": "^1.0.3",
     "distube": "^2.8.18",
     "enmap": "^5.8.2",
+    "express": "^4.17.1",
     "fetch": "^1.1.0",
     "ffmpeg-static": "^4.2.7",
     "https-proxy-agent": "^5.0.0",
@@ -30,9 +43,5 @@
     "spotify-url-info": "^2.2.0",
     "update": "^0.7.4",
     "youtube-sr": "^2.0.5"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "node index.js",
-    "start": "node index.js"
-  },
+  }
+}
