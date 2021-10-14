@@ -1,6 +1,6 @@
 ## Developer By 
 
-BROKARONAGAMING#999, JohnDavid✖‿✖#0009
+BROKARONAGAMING#2962, Tomato6966 , JohnDavid✖‿✖#0009
 
 ## Support
 
