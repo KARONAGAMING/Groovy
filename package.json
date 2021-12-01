@@ -45,5 +45,6 @@
     "spotify-url-info": "^2.2.0",
     "update": "^0.7.4",
     "youtube-sr": "^2.0.5"
-  }
+  },
+  "devDependencies": {}
 }
