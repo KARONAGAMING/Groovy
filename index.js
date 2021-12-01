@@ -48,8 +48,6 @@ client.categories = fs.readdirSync("./commands/");
     require(`./handlers/${handler}`)(client);
 });
 require("./handlers/slashcommands")(client);
-//BOT CODED BY: Tomato#6966
-//DO NOT SHARE WITHOUT CREDITS!
 require("./handlers/setups")(client)
 const functions = require("./functions")
 //databases setups
